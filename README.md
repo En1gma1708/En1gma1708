@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Sahil 👋
 
-<!--
-**En1gma1708/En1gma1708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer in progress | USICT (GGSIPU)  
+🧠 Building and exploring Machine Learning, Deep Learning & NLP  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 💻 Python  
+- 🤖 TensorFlow, PyTorch  
+- 📊 NumPy, Pandas, Scikit-learn  
+- 🌐 Basic Web & Tools  
+
+---
+
+## 🚀 What I'm Working On
+- 🧠 Learning Convolutional Neural Networks (CNNs)  
+- 🤖 Building AI-based tools and real-world projects  
+- 📊 Improving model performance and understanding ML deeply  
+
+---
+
+## 📌 Projects
+-  Medlens Ai : Smart Querying for Healthcare PDFs
+-  Neural-Uplift:  A neural network–based uplift modeling system that estimates the causal impact of user actions on conversion outcomes.
+- Watchlist-Summarizer-WebAPP
+
+---
+
+## 🎯 Goals
+- Build impactful AI systems  
+- Master Deep Learning from scratch  
+- Work on real-world scalable tech  
+
+
+---
+
+## 🤝 Connect with me
+- LinkedIn: www.linkedin.com/in/
+sahil-sharma17
