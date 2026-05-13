@@ -32,13 +32,13 @@
 
 ## 📌 Projects
 
-- **[NeuralPath AI](https://github.com/En1gma1708/NeuralPath-AI)** — Full-stack brain MRI pathology detection system. Fine-tuned VGG-16 classifies Glioma, Meningioma & Pituitary tumors with Grad-CAM heatmap visualization and softmax confidence scoring. Stack: Next.js 15, FastAPI, TensorFlow/Keras — deployed on Vercel + Render.
+- **[NeuralPath AI](https://github.com/En1gma1708/NeuralPath-AI)** : Full-stack brain MRI pathology detection system. Fine-tuned VGG-16 classifies Glioma, Meningioma & Pituitary tumors with Grad-CAM heatmap visualization and softmax confidence scoring. Stack: Next.js 15, FastAPI, TensorFlow/Keras — deployed on Vercel + Render.
 
-- **Medlens AI** — Smart querying for healthcare PDFs using NLP.
+- **Medlens AI** : Smart querying for healthcare PDFs using NLP.
 
-- **Neural-Uplift** — Neural network–based uplift modeling system estimating causal impact of user actions on conversion outcomes.
+- **Neural-Uplift** : Neural network–based uplift modeling system estimating causal impact of user actions on conversion outcomes.
 
-- **Watchlist-Summarizer-WebApp** — Web app for summarizing watchlist content.
+- **Watchlist-Summarizer-WebApp** : Web app for summarizing watchlist content.
 
 ---
 
